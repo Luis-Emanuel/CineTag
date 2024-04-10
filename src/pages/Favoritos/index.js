@@ -1,7 +1,6 @@
 import Banner from "componentes/Banner";
 import styles from "./Favoritos.module.css";
 import Titulo from "componentes/Titulo";
-import videos from "json/db.json"
 import Card from "componentes/Card";
 
 function Favoritos() {
