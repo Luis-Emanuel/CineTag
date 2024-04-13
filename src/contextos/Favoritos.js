@@ -17,7 +17,7 @@ export default function FavoritosProvider({ children }) {
 export function useFavoritoContext(){
   const {favorito, setFavorito} = useContext(FavoritosContexto)
 
-  function adicionaFavorito(novoFavorito){
+  function adicionarFavorito(novoFavorito){
     const favoritarRepetido = favorito.some(item => item.id === novoFavorito.id);
 
     let novaLista = [...favorito];
@@ -33,6 +33,6 @@ export function useFavoritoContext(){
 
   return{
     favorito,
-    adicionaFavorito
+    adicionarFavorito
   }
 }

@@ -1,8 +1,8 @@
 import Banner from "componentes/Banner";
 import Card from "componentes/Card";
 import Titulo from "componentes/Titulo";
-import videos from "json/db.json"
-import styles from "./Inicio.module.css"
+import videos from "json/db.json";
+import styles from "./Inicio.module.css";
 
 function Inicio() {
   return (
