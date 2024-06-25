@@ -1,7 +1,3 @@
-import Cabecalho from "componentes/Cabecalho";
-import Container from "componentes/Container";
-import Rodape from "componentes/Rodape";
-import FavoritosProvider from "contextos/Favoritos";
 import Favoritos from "pages/Favoritos";
 import Inicio from "pages/Inicio";
 import NaoEncontrado from "pages/NaoEncontrado";
