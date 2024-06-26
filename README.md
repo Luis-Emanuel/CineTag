@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<h1 align="center">Cinetag </h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"> Uma plataforma de compartilhamento de filmes que possibilita a ação tanto de assistir quanto de favoritarmos </p> 
 
-## Available Scripts
+  
 
-In the project directory, you can run:
+<div align="center"> 
 
-### `npm start`
+<img width="60%" src="https://github.com/Luis-Emanuel/CineTag/blob/master/readme/img.png?raw=true"/> 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>	 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  
 
-### `npm test`
+## ✔️ Técnicas e tecnologias utilizadas 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
 
-### `npm run build`
+- ` JavaScript XML `: O JSX facilita a criação de componentes React, pois permite que a estrutura da interface do usuário seja definida de uma maneira que se assemelha muito ao HTML tradicional, mas com o poder adicional da lógica JavaScript. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `CSS Modules`: O CSS traz uma aparência e melhora a experiência do usuário além de trazer um entendimento do que a aplicação propõe. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `JavaScript`: Foi usado para definir a lógica e o comportamento dos componentes.   
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- `React`: Com ele criamos componentes funcionais da maneira mais simples, também utilizamos “props” para passar informação entre os componentes e seus filhos, fizemos o gerenciamento de estado com “useState”, criamos contextos e trabalhos com Hook personalizados, criamos rotas dinâmicas e aninhadas.     
 
-### `npm run eject`
+  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+     
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔨 Funcionalidades do projeto 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="justify"> O projeto é uma plataforma de compartilhamento de filmes que possibilita a ação tanto de assistir quanto de favoritar. Na “Home” teremos uma lista de filmes que caso click no coração você favorita o filme e fica disponível na página de favoritos, também e possível assistir o filme caso click nele</p> 
 
-## Learn More
+  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📁 Acesso ao projeto 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  
 
-### Code Splitting
+[Veja o projeto final do curso em funcionamento](https://cine-tag-nt.vercel.app/). 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  
 
-### Analyzing the Bundle Size
+## 📷FOTOS DO PROJETO 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<div align="center"> 
 
-### Making a Progressive Web App
+<img src="https://github.com/Luis-Emanuel/CineTag/blob/master/readme/img.png?raw=true" /> 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img src="https://github.com/Luis-Emanuel/CineTag/blob/master/readme/img_2.png?raw=true" /> 
 
-### Advanced Configuration
+<img src="https://github.com/Luis-Emanuel/CineTag/blob/master/readme/img_3.png?raw=true" /> 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</div> 
